@@ -1,0 +1,7 @@
+{
+  "name": "cs-cordova-test",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
