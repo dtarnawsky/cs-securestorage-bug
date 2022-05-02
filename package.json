@@ -52,7 +52,7 @@
     "cordova-ios": "^6.2.0",
     "cordova-open-native-settings": "1.5.2",
     "cordova-plugin-add-swift-support": "2.0.2",
-    "cordova-plugin-device": "2.1.0",    
+    "cordova-plugin-device": "2.1.0",
     "cordova-plugin-ionic-keyboard": "2.2.0",
     "cordova-plugin-ionic-webview": "5.0.0",
     "cordova-plugin-secure-storage": "3.0.2",
@@ -92,7 +92,8 @@
       },
       "cordova-plugin-add-swift-support": {},
       "@ionic-enterprise/identity-vault": {},
-      "@ionic-enterprise/secure-storage": {}
+      "@ionic-enterprise/secure-storage": {},
+      "cordova-open-native-settings": {}
     },
     "platforms": [
       "ios",
